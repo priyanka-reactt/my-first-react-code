@@ -75,9 +75,9 @@ export default function LandingPage() {
           Let’s build something <br /> amazing together
         </h3>
 
-        {/* <button className="mt-8 bg-gradient-to-r from-pink-500 to-purple-500 px-10 py-4 rounded-full font-bold hover:scale-110 transition">
+        <button className="mt-8 bg-gradient-to-r from-pink-500 to-purple-500 px-10 py-4 rounded-full font-bold hover:scale-110 transition">
           Get in Touch 🚀
-        </button> */}
+        </button>
       </section>
     </div>
   );
